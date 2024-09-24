@@ -56,7 +56,8 @@ Before continuing, make sure that these tasks are completed!
 
 **Deployment Technical Requirements**
 
-- [ ] Your GitHub page has a link to the deployed server in the About section.
+- [x] Your GitHub page has a link to the deployed server in the About section.
+      Deployment Link: https://eight-0-1-assignment-andiizhu.onrender.com
 
 ## Part 1 — Setup
 
